@@ -50,6 +50,9 @@ public class LoginTest {
 
 	@Test(description = "This test verify successful and unsuccessful login", dataProvider = "getExcelData")
 	public void verifyLogin(String Username, String Password){
+		
+		Assert.assertEquals("Swag Labs", driver.getTitle());
+		
 		driver.findElement(By.id("user-name")).clear();
 		driver.findElement(By.id("user-name")).sendKeys(Username);
 		driver.findElement(By.id("password")).clear();

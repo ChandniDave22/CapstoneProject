@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-30T01:18:54 IST" name="Suite" finished-at="2023-10-30T01:20:21 IST" duration-ms="87448">
+  <suite started-at="2023-10-30T23:59:20 IST" name="Default suite" finished-at="2023-10-31T00:01:27 IST" duration-ms="126279">
     <groups>
     </groups>
-    <test started-at="2023-10-30T01:18:54 IST" name="Test" finished-at="2023-10-30T01:20:21 IST" duration-ms="87448">
+    <test started-at="2023-10-30T23:59:20 IST" name="Default test" finished-at="2023-10-31T00:01:27 IST" duration-ms="126279">
       <class name="Capstoneproject_3_java.Capstoneproject_3_java.LoginTest">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:18:55 IST" name="beforeMethod" finished-at="2023-10-30T01:19:01 IST" duration-ms="5906" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T23:59:22 IST" name="beforeMethod" finished-at="2023-10-30T23:59:30 IST" duration-ms="7792" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:19:01 IST" name="verifyLogin" description="This test verify successful and unsuccessful login" data-provider="getExcelData" finished-at="2023-10-30T01:19:13 IST" duration-ms="11567" status="PASS">
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T23:59:30 IST" name="verifyLogin" description="This test verify successful and unsuccessful login" data-provider="getExcelData" finished-at="2023-10-30T23:59:41 IST" duration-ms="11046" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,15 +27,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:19:13 IST" name="afterMethod" finished-at="2023-10-30T01:19:13 IST" duration-ms="182" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T23:59:41 IST" name="afterMethod" finished-at="2023-10-30T23:59:41 IST" duration-ms="297" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:19:13 IST" name="beforeMethod" finished-at="2023-10-30T01:19:16 IST" duration-ms="3552" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T23:59:41 IST" name="beforeMethod" finished-at="2023-10-30T23:59:55 IST" duration-ms="13782" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:19:16 IST" name="verifyLogin" description="This test verify successful and unsuccessful login" data-provider="getExcelData" finished-at="2023-10-30T01:19:17 IST" duration-ms="873" status="PASS">
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T23:59:55 IST" name="verifyLogin" description="This test verify successful and unsuccessful login" data-provider="getExcelData" finished-at="2023-10-30T23:59:57 IST" duration-ms="1896" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -51,15 +51,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:19:17 IST" name="afterMethod" finished-at="2023-10-30T01:19:17 IST" duration-ms="206" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T23:59:57 IST" name="afterMethod" finished-at="2023-10-30T23:59:57 IST" duration-ms="896" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:19:17 IST" name="beforeMethod" finished-at="2023-10-30T01:19:20 IST" duration-ms="2653" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T23:59:57 IST" name="beforeMethod" finished-at="2023-10-31T00:00:13 IST" duration-ms="15564" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:19:20 IST" name="verifyLogin" description="This test verify successful and unsuccessful login" data-provider="getExcelData" finished-at="2023-10-30T01:19:31 IST" duration-ms="10938" status="PASS">
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-31T00:00:13 IST" name="verifyLogin" description="This test verify successful and unsuccessful login" data-provider="getExcelData" finished-at="2023-10-31T00:00:24 IST" duration-ms="11049" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -75,15 +75,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:19:31 IST" name="afterMethod" finished-at="2023-10-30T01:19:31 IST" duration-ms="266" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-31T00:00:24 IST" name="afterMethod" finished-at="2023-10-31T00:00:25 IST" duration-ms="416" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:19:31 IST" name="beforeMethod" finished-at="2023-10-30T01:19:34 IST" duration-ms="2715" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-31T00:00:25 IST" name="beforeMethod" finished-at="2023-10-31T00:00:34 IST" duration-ms="9563" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:19:34 IST" name="verifyLogin" description="This test verify successful and unsuccessful login" data-provider="getExcelData" finished-at="2023-10-30T01:19:50 IST" duration-ms="16029" status="PASS">
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-31T00:00:34 IST" name="verifyLogin" description="This test verify successful and unsuccessful login" data-provider="getExcelData" finished-at="2023-10-31T00:00:50 IST" duration-ms="16025" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -99,15 +99,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:19:50 IST" name="afterMethod" finished-at="2023-10-30T01:19:50 IST" duration-ms="163" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-31T00:00:50 IST" name="afterMethod" finished-at="2023-10-31T00:00:50 IST" duration-ms="255" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:19:50 IST" name="beforeMethod" finished-at="2023-10-30T01:19:53 IST" duration-ms="2587" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-31T00:00:50 IST" name="beforeMethod" finished-at="2023-10-31T00:00:54 IST" duration-ms="4079" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:19:53 IST" name="verifyLogin" description="This test verify successful and unsuccessful login" data-provider="getExcelData" finished-at="2023-10-30T01:20:04 IST" duration-ms="10929" status="PASS">
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-31T00:00:54 IST" name="verifyLogin" description="This test verify successful and unsuccessful login" data-provider="getExcelData" finished-at="2023-10-31T00:01:06 IST" duration-ms="11173" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -123,15 +123,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:20:04 IST" name="afterMethod" finished-at="2023-10-30T01:20:04 IST" duration-ms="234" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-31T00:01:06 IST" name="afterMethod" finished-at="2023-10-31T00:01:06 IST" duration-ms="191" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:20:04 IST" name="beforeMethod" finished-at="2023-10-30T01:20:06 IST" duration-ms="2414" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-31T00:01:06 IST" name="beforeMethod" finished-at="2023-10-31T00:01:09 IST" duration-ms="2760" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:20:06 IST" name="verifyLogin" description="This test verify successful and unsuccessful login" data-provider="getExcelData" finished-at="2023-10-30T01:20:17 IST" duration-ms="10902" status="PASS">
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-31T00:01:09 IST" name="verifyLogin" description="This test verify successful and unsuccessful login" data-provider="getExcelData" finished-at="2023-10-31T00:01:20 IST" duration-ms="11599" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -147,15 +147,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:20:17 IST" name="afterMethod" finished-at="2023-10-30T01:20:17 IST" duration-ms="225" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-31T00:01:20 IST" name="afterMethod" finished-at="2023-10-31T00:01:20 IST" duration-ms="177" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:20:17 IST" name="beforeMethod" finished-at="2023-10-30T01:20:20 IST" duration-ms="2498" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-31T00:01:20 IST" name="beforeMethod" finished-at="2023-10-31T00:01:25 IST" duration-ms="4906" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:20:20 IST" name="verifyLogin" description="This test verify successful and unsuccessful login" data-provider="getExcelData" finished-at="2023-10-30T01:20:21 IST" duration-ms="819" status="PASS">
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-31T00:01:25 IST" name="verifyLogin" description="This test verify successful and unsuccessful login" data-provider="getExcelData" finished-at="2023-10-31T00:01:26 IST" duration-ms="1029" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -171,11 +171,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-30T01:20:21 IST" name="afterMethod" finished-at="2023-10-30T01:20:21 IST" duration-ms="219" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Capstoneproject_3_java.Capstoneproject_3_java.LoginTest@942a29c]" started-at="2023-10-31T00:01:26 IST" name="afterMethod" finished-at="2023-10-31T00:01:27 IST" duration-ms="275" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- Capstoneproject_3_java.Capstoneproject_3_java.LoginTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
